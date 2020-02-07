@@ -17,9 +17,9 @@ export class AppComponent {
       icon: 'home'
     },
     {
-      title: 'List',
+      title: 'History Pembelian',
       url: '/list',
-      icon: 'list'
+      icon: 'umbrella'
     }
   ];
 
